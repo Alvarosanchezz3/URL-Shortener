@@ -29,4 +29,4 @@ POSTGRES_DB=nombre_bd
 
 ## Video del proyecto:
 
-https://github.com/Alvarosanchezz3/Api-URL_Shortener/assets/99328696/ef435469-6dbc-4e3d-a71a-374cbe7ebfd6
+[https://github.com/Alvarosanchezz3/Api-URL_Shortener/assets/99328696/ef435469-6dbc-4e3d-a71a-374cbe7ebfd6](https://github.com/Alvarosanchezz3/URL-Shortener/assets/99328696/dc1a7e88-7c2b-4974-a1e0-7c1a3074f76e)
